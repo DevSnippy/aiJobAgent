@@ -35,7 +35,7 @@ A full-stack application that automates the process of analyzing job description
 ### Backend
 
 ```bash
-git clone https://github.com/your-username/job-ai-assistant
+git clone https://github.com/DevSnippy/aiJobAgent
 cd job-ai-assistant/backend
 
 # Create virtual environment
