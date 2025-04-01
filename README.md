@@ -56,6 +56,6 @@ cd ../frontend
 npm install
 
 # Run the development server
-npm run dev
+npx next dev
 ```
 
