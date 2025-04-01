@@ -1,0 +1,37 @@
+{
+  "first_name": "John",
+  "middle_name": "",
+  "last_name": "Doh",
+  "phone": "(480) 123‐5689",
+  "email": "sampleresume@gmail.com",
+  "country": "United States",
+  "city": "San Francisco",
+  "address": "",
+  "zip_code": "94109",
+  "linkedin": "linkedin.com/in/sampleresume",
+  "personal_site": "",
+  "github": "",
+  "skills": [
+    "JavaScript",
+    "ReactJS",
+    "AngularJS",
+    "ExpressJS",
+    "NodeJS",
+    "Java",
+    "Spring",
+    "Maven",
+    "MongoDB",
+    "SQL",
+    "Docker",
+    "Tomcat",
+    "Grunt",
+    "Heroku",
+    "CircleCI"
+  ],
+  "languages": [
+    "English"
+  ],
+  "years_of_experience": "5",
+  "summary": "An analytical and results‐driven software engineer with experience in application development, scripting and coding, automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve customer satisfaction, and achieve financial savings.",
+  "personal_note": ""
+}
