@@ -27,7 +27,7 @@ A full-stack application that automates the process of analyzing job description
 ### Frontend (TypeScript + Next.js)
 - [Next.js](https://nextjs.org/) – React framework
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
-- [React Query](https://tanstack.com/query) – API state management
+- [shadcn](https://ui.shadcn.com/) – component library
 
 ---
 
