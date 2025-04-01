@@ -47,3 +47,15 @@ pip install -r requirements.txt
 
 # Run the server
 uvicorn main:app --reload
+
+```
+```bash
+cd ../frontend
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
