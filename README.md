@@ -46,7 +46,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Run the server
-uvicorn main:app --reload
+python main.py
 
 ```
 ### Frontend
