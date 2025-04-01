@@ -1,1 +1,33 @@
-# aiJobAgent
+# 💼 AI-Powered Job Application Assistant
+
+A full-stack application that automates the process of analyzing job descriptions, comparing them with your resume, and generating personalized cover letters – all using AI.
+
+---
+
+## ✨ Features
+
+- Upload your resume (PDF)
+- Auto-extract personal info and skills (structured JSON)
+- Analyze job descriptions from URLs (using Selenium)
+- Compare skills and estimate job fit
+- Auto-generate tailored Cover Letters (PDF)
+- Built with OpenAI, FastAPI, and Next.js
+
+---
+
+## 🧠 Tech Stack
+
+### Backend (Python)
+- [FastAPI](https://fastapi.tiangolo.com/) – API framework
+- [OpenAI](https://platform.openai.com/docs/) – AI-powered content generation
+- [Selenium](https://www.selenium.dev/) – Dynamic scraping
+- [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/) – PDF generation
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) – HTML parsing
+
+### Frontend (TypeScript + Next.js)
+- [Next.js](https://nextjs.org/) – React framework
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling
+- [React Query](https://tanstack.com/query) – API state management
+
+---
+
