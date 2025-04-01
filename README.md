@@ -36,7 +36,7 @@ A full-stack application that automates the process of analyzing job description
 
 ```bash
 git clone https://github.com/DevSnippy/aiJobAgent
-cd job-ai-assistant/backend
+cd aiJobAgent/backend
 
 # Create virtual environment
 python -m venv venv
