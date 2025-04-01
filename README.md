@@ -31,3 +31,19 @@ A full-stack application that automates the process of analyzing job description
 
 ---
 
+
+### Backend
+
+```bash
+git clone https://github.com/your-username/job-ai-assistant
+cd job-ai-assistant/backend
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the server
+uvicorn main:app --reload
